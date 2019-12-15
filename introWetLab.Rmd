@@ -1,0 +1,71 @@
+---
+title: "WetLabOverview"
+author: "Kendra Maas"
+date: "December 17, 2019"
+output:
+   slidy_presentation:
+    fig_caption: yes
+    fig_height: 6
+    fig_width: 7
+    incremental: yes
+---
+
+----
+
+#Cartoon of wet lab process
+
+
+![wetlab](microbial_community_analysis.jpg){width=80%}
+
+----
+
+# cartoon DNA extraction
+
+![DNAextraction](DNAextraction13595_2018_705_Fig2_HTML.gif){width=80%}
+
+----
+
+#Cartoon of wet lab process
+
+
+![wetlab](microbial_community_analysis.jpg){width=80%}
+
+----
+
+# cartoon of PCR1
+
+![PCR](pcr-components_med.jpeg){width=80%}
+----
+
+# cartoon of PCR2
+
+![PCR2](pcr_factsheet.jpg){width=80%}
+
+----
+
+#Cartoon of wet lab process
+
+
+![wetlab](microbial_community_analysis.jpg){width=80%}
+
+----
+
+# Illumina sequencing 1
+
+![illumina1](IlluminaSequencing3-s2.0-B9780128022344000021-f02-39-9780128022344.jpg){width=80%}
+
+----
+
+# Illumina sequencing 2
+
+![illumina2](Illumina-sequencing-technology-overview-wwwilluminacom.jpg){width=80%}
+
+
+
+
+
+
+
+
+
+

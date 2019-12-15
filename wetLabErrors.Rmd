@@ -1,0 +1,99 @@
+---
+title: "WetLabOverview"
+author: "Kendra Maas"
+date: "December 17, 2019"
+output:
+   slidy_presentation:
+    fig_caption: yes
+    fig_height: 6
+    fig_width: 7
+    incremental: yes
+---
+
+----
+
+#Cartoon of wet lab process
+
+
+![wetlab](microbial_community_analysis.jpg){width=80%}
+
+----
+
+#Wet lab potential errors or failures
+- Sample switching
+- Contamination
+- Failed extraction
+- Failed PCR
+- Mis-pooled
+
+----
+
+#Wet lab-potential errors 
+- Scary, potentially silent errors
+    - Sample switching
+    - Mislabeled initially
+    - Any sample transfer is a chance for tube switching
+    - Wrong index used in PCR
+- Contamination
+    - At time of collection 
+    - Sample transfer
+    - Extraction
+    - PCR
+
+----
+
+#Wet lab errors?
+- Failed extraction
+- Failed PCR
+- Mis-pooled
+
+----
+<div class = "row">
+  
+<div class = "col-md-4">
+#Wet lab biases
+- Sample storage
+- DNA extraction
+    - Method matters
+    - compare methods!
+        - Lysis (bead beating!)
+    - Be method aware when using data
+</div>
+
+<div class = "col-md-4">
+
+![extractDDGE](extractionDGGE.png){width=40%}
+</div>
+</div>
+
+----
+<div class = "row">
+  
+<div class = "col-md-4">
+#Wet lab errors?
+- DNA storage? 
+- PCR
+    - Primer efficiency
+    - Inhibitors
+    - Polymerase error
+    </div>
+
+<div class = "col-md-4">
+
+![storage](DNAstorage.png){width=40%}
+</div>
+</div>
+
+----
+
+#Other errors
+- PCR errors
+    - 16s amplification
+    - In flow cell
+- Sequence errors
+    - Miscalled base
+    - Carry over signal
+    - Signal from neighboring cluster
+    - Carryover between runs
+
+**Sequence negative controls!**
